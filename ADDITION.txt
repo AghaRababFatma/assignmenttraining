@@ -2,4 +2,7 @@ int x = 5;
 int y = 6;
 int z = 7;
 int sum = x + y +z;
+int a=2;
+int sum1= a+x;
 System.out.println(sum); // Print the sum of x + y +z
+System.out.println(sum1); // Print the sum of a+x
